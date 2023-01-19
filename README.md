@@ -1,1 +1,1 @@
-# ALU-design-using-Logisim
+# 8bit-ALU-design-using-Logisim
